@@ -1,0 +1,1 @@
+Открыть папку timer-react и ввести команду npm start
